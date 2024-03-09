@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 🍫 2022 - Worked as a Front-end Developer at Speedy Snacks for my senior project
 
-🎉 2023 - Graduated with my Bachelors degreee in Computer Science
+🎉 2023 - Graduated with my Bachelor's degreee in Computer Science
 
 ## What I'm doing now
 
