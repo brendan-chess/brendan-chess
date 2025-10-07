@@ -30,21 +30,13 @@ Here are some ideas to get you started:
 
 🏀 2021 - Landed my first Software Engineering Internship at RealTime Sports
 
-🍫 2022 - Worked as a Front-end Developer at Speedy Snacks for my senior project
+🍫 2022 - Interned as a Front-end Developer at Speedy Snacks for my senior project
 
 🎉 2023 - Graduated with my Bachelor's degreee in Computer Science
 
-## What I'm doing now
-
-🌱 Working to become an expert in Next.js, Tailwind CSS, React, and TypeScript
-
-✉ Sharing my learning journey on LinkedIn 
-
-👨‍💻 Grinding LeetCode problems 
+💻 2024 - First Software Engineer hired at Solisa AI
 
 ## How to reach me
-
-If you want to talk about web development, collaborate on a project, or think I could be a good fit at your organization, don't be shy to get in touch with me!
 
 📫 Send me an email at brendanchess25@gmail.com
 
