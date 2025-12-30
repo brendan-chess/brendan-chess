@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 
 # 🚀 I'm a full-stack web developer!
 
-## About me
-
-🌴 Born and raised in Los Angeles, California
-
-🌪 Currently living in Kansas City, Missouri
-
 ## My Background
 
 🖥 2016 - First began coding in my senior year of high school
